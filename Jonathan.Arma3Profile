@@ -526,7 +526,7 @@ revMouse=0;
 mouseSmoothing=5;
 mouseAcceleration=0;
 battleyeLicense=1;
-lastMPMission="King of the Hill by Sa-Matra (v9+, Custom)";
+lastMPMission="King of the Hill by Sa-Matra (v9+, Infantry)";
 lastSPMission="CoF: Green";
 activeKeys[]=
 {
