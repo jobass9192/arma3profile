@@ -14,9 +14,9 @@ class MainMap
 	};
 };
 maxSamplesPlayed=96;
-anisoFilter=12;
-textureQuality=2;
-shadowQuality=2;
+anisoFilter=4;
+textureQuality=1;
+shadowQuality=1;
 tripleHead=0;
 class DifficultyPresets
 {
@@ -526,7 +526,7 @@ revMouse=0;
 mouseSmoothing=5;
 mouseAcceleration=0;
 battleyeLicense=1;
-lastMPMission="King of the Hill by Sa-Matra (v9+, Infantry)";
+lastMPMission="King of the Hill by Sa-Matra (v9++, Custom)";
 lastSPMission="CoF: Green";
 activeKeys[]=
 {
@@ -609,15 +609,15 @@ mouseSensitivityX=1;
 mouseSensitivityY=1;
 floatingZoneArea=0;
 headBob=1;
-sceneComplexity=900000;
+sceneComplexity=600000;
 shadowZDistance=50;
-viewDistance=2026.1361;
-preferredObjectViewDistance=1297.49;
-terrainGrid=12.5;
+viewDistance=1191.975;
+preferredObjectViewDistance=921.65894;
+terrainGrid=25;
 volumeCD=0;
 volumeFX=0.287081;
 volumeSpeech=0.287081;
-volumeVoN=0.287081;
+volumeVoN=0.10765694;
 vonRecThreshold=0;
 gamma=1;
 ppBrightness=1;
