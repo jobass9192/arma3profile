@@ -14,9 +14,9 @@ class MainMap
 	};
 };
 maxSamplesPlayed=96;
-anisoFilter=4;
-textureQuality=1;
-shadowQuality=1;
+anisoFilter=8;
+textureQuality=2;
+shadowQuality=2;
 tripleHead=0;
 class DifficultyPresets
 {
@@ -526,17 +526,17 @@ revMouse=0;
 mouseSmoothing=5;
 mouseAcceleration=0;
 battleyeLicense=1;
-lastMPMission="King of the Hill by Sa-Matra (v9++, Custom)";
+lastMPMission="King of the Hill Tanoa by Sa-Matra (v9++, Custom)";
 lastSPMission="CoF: Green";
 activeKeys[]=
 {
 	"BIS_[sp]%20on%20the%20other%20side%20-%20by%20bauerhousebourne.altis_establishingShot"
 };
 FavoriteServers[]={};
-browsingSource="History";
+browsingSource="Internet";
 class Filter
 {
-	serverName="";
+	serverName="HostileTakeover";
 	missionType="";
 	missionName="";
 	maxPing=0;
@@ -609,11 +609,11 @@ mouseSensitivityX=1;
 mouseSensitivityY=1;
 floatingZoneArea=0;
 headBob=1;
-sceneComplexity=600000;
+sceneComplexity=900000;
 shadowZDistance=50;
-viewDistance=1191.975;
-preferredObjectViewDistance=921.65894;
-terrainGrid=25;
+viewDistance=2182.1584;
+preferredObjectViewDistance=1367.7856;
+terrainGrid=6.25;
 volumeCD=0;
 volumeFX=0.287081;
 volumeSpeech=0.287081;
