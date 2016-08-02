@@ -14,9 +14,9 @@ class MainMap
 	};
 };
 maxSamplesPlayed=96;
-anisoFilter=8;
-textureQuality=2;
-shadowQuality=2;
+anisoFilter=2;
+textureQuality=1;
+shadowQuality=1;
 tripleHead=0;
 class DifficultyPresets
 {
@@ -526,7 +526,7 @@ revMouse=0;
 mouseSmoothing=5;
 mouseAcceleration=0;
 battleyeLicense=1;
-lastMPMission="King of the Hill Tanoa by Sa-Matra (v9++, Custom)";
+lastMPMission="King of the Hill by Sa-Matra (v9++, Custom)";
 lastSPMission="CoF: Green";
 activeKeys[]=
 {
@@ -609,11 +609,11 @@ mouseSensitivityX=1;
 mouseSensitivityY=1;
 floatingZoneArea=0;
 headBob=1;
-sceneComplexity=900000;
+sceneComplexity=600000;
 shadowZDistance=50;
-viewDistance=2182.1584;
-preferredObjectViewDistance=1367.7856;
-terrainGrid=6.25;
+viewDistance=1409.9928;
+preferredObjectViewDistance=1000;
+terrainGrid=25;
 volumeCD=0;
 volumeFX=0.287081;
 volumeSpeech=0.287081;
