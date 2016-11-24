@@ -2,7 +2,7 @@ version=2;
 blood=1;
 singleVoice=0;
 bootCampWarning=1;
-currentCampaign="A3\Missions_F_EPA\Campaign";
+currentCampaign="A3\Missions_F_Bootcamp\Campaign";
 lastCampaignMission="Drawdown 2035";
 class MainMap
 {
@@ -14,7 +14,7 @@ class MainMap
 	};
 };
 maxSamplesPlayed=96;
-anisoFilter=2;
+anisoFilter=16;
 textureQuality=1;
 shadowQuality=1;
 tripleHead=0;
@@ -44,6 +44,7 @@ class DifficultyPresets
 			mapContent=0;
 			autoReport=0;
 			multipleSaves=0;
+			squadRadar=0;
 		};
 		aiLevelPreset=1;
 	};
@@ -526,7 +527,7 @@ revMouse=0;
 mouseSmoothing=5;
 mouseAcceleration=0;
 battleyeLicense=1;
-lastMPMission="King of the Hill by Sa-Matra (v9++, Custom)";
+lastMPMission="King of the Hill by Sa-Matra (v9+++, Custom)";
 lastSPMission="CoF: Green";
 activeKeys[]=
 {
@@ -608,12 +609,14 @@ keyVTOLVectoringCancel[]={45};
 mouseSensitivityX=1;
 mouseSensitivityY=1;
 floatingZoneArea=0;
+winHeight=1080;
+winWidth=1920;
 headBob=1;
-sceneComplexity=600000;
-shadowZDistance=50;
-viewDistance=1409.9928;
-preferredObjectViewDistance=1000;
-terrainGrid=25;
+sceneComplexity=400000;
+shadowZDistance=75.147972;
+viewDistance=500;
+preferredObjectViewDistance=500;
+terrainGrid=50;
 volumeCD=0;
 volumeFX=0.287081;
 volumeSpeech=0.287081;
